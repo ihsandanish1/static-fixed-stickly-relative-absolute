@@ -1,0 +1,52 @@
+.container{
+    border: 2px solid black;
+    width: 1000px;
+    height: 60px;
+    background-color: aliceblue;
+display: flex;
+justify-content:space-between;
+margin-left: 40px;
+position: fixed;
+top: 20px;
+
+}
+
+.ihsan{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+   }
+a{
+    display: flex;
+   align-items: center;
+    text-decoration: none;
+   
+   
+   
+}
+
+.amin{
+    margin-top: 50px;
+    font-family: "Poppins", Sans-serif;
+    font-size: 72px;
+    font-weight: 700;
+    line-height: 1.1em;
+    letter-spacing: 0.7px;
+    /* position: relative; */
+    /* top: 600px; */
+}
+h1{
+    margin: 0 200px 0 200px;
+    padding: 50px;
+}
+a:hover{
+    border-radius:60%;
+    background-color: lightgrey;
+    width: 80px;
+    padding-left: 20px;
+   
+}
+h3{
+    position: sticky;
+    top:200px;
+}
